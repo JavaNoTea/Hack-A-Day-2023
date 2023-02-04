@@ -3,5 +3,4 @@
 # hello worlds
 
 # we are team Tin CAN
-
-rip Adam's friend
+![made in mspaint lol](relative/path/to/hackaday\ logo.png?raw=true "our logo")
