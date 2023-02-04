@@ -3,4 +3,4 @@
 # hello worlds
 
 # we are team Tin CAN
-![made in mspaint lol](relative/path/to/hackadaylogo.png?raw=true "our logo")
+![made in mspaint lol](/posts/path/to/hackadaylogo.png "our logo")
