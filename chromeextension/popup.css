@@ -1,0 +1,79 @@
+body,html{
+  width: 15em;
+}
+
+#logo{
+  width: 200px;
+  height: 66px;
+}
+
+#buttons{
+    margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width:100%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: Arial;
+}
+
+button {
+  background-color: #9900ff;
+  width: 200px;
+  height: 25px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* Add styles for the menu items */
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.menu-item {
+  background-color: #ddd;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+/* Add styles for the popup */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+select {
+  background-color: #9900ff;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+

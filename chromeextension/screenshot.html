@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      img {
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <img id="screenshot-image"/>
+    <script>
+      var screenshotUrl = new URL(window.location.href).searchParams.get("screenshot");
+      document.getElementById("screenshot-image").src = screenshotUrl;
+    </script>
+  </body>
+</html>
+
