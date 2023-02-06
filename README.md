@@ -1,6 +1,6 @@
 # Hack-A-Day-2023 Project (1st Place Project)
 
-This project was made during UCF Hack-A-Day 2023
+This project was made during UCF Hack-A-Day 2023. An event with over 160 hackers!
 
 
 <img src="https://user-images.githubusercontent.com/99133333/217091884-c2f24083-54e2-44ea-acea-2e9a578c9786.jpg" width=50% height=50%>
