@@ -21,5 +21,5 @@ We made a chrome extension that makes it easier for people with disabilities to 
 
 
 # Made by Team Tin CAN
-<img src="https://github.com/JavaNoTea/Hack-A-Day-2023/blob/main/hackadaylogo.png" width=50% height=50%>
+<img src="https://github.com/JavaNoTea/Hack-A-Day-2023/blob/main/hackadaylogo.png" width=20% height=20%>
 
