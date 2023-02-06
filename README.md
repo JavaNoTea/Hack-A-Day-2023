@@ -6,8 +6,6 @@ This project was made during UCF Hack-A-Day 2023. An event with over 160 hackers
 <img src="https://user-images.githubusercontent.com/99133333/217091884-c2f24083-54e2-44ea-acea-2e9a578c9786.jpg" width=50% height=50%>
 
 
-This event was only 8 hours long!
-
 # WebWise: A Chrome Accessibility Extension
 
 We made a chrome extension that makes it easier for people with disabilities to browse the web.
