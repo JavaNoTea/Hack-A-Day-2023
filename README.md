@@ -1,8 +1,20 @@
-# Hack-A-Day-2023
+# Hack-A-Day-2023 Project (1st Place Project)
 
-# hello worlds
+This project was made during UCF Hack-A-Day 2023
+![326928202_1578457352660363_192194744352373153_n](https://user-images.githubusercontent.com/99133333/217091884-c2f24083-54e2-44ea-acea-2e9a578c9786.jpg)
 
-# we are team Tin CAN
-![made in mspaint lol](https://github.com/JavaNoTea/Hack-A-Day-2023/blob/main/hackadaylogo.png)
+This event was only 8 hours long!
 
-# WE WOOOOOOOOONNNNNNNNNNNN GGGGGGGGGGGGGGGGGGGGG
+#WebWise: A Chrome Accessibility Extension
+
+We made a chrome extension that makes it easier for people with disabilities to browse the web.
+
+#Features:
+![Screenshot from 2023-02-06 16-32-41](https://user-images.githubusercontent.com/99133333/217092790-7e5a17f8-3386-4a7a-975e-ac25e83a59a0.png)
+![extension](https://user-images.githubusercontent.com/99133333/217094231-88263eb1-9c11-4737-ab57-2a14da70e9d6.png)
+
+
+
+# Made by Team Tin CAN
+!(https://github.com/JavaNoTea/Hack-A-Day-2023/blob/main/hackadaylogo.png)
+
