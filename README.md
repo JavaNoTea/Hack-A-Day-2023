@@ -14,7 +14,7 @@ We made a chrome extension that makes it easier for people with disabilities to 
 
 # Features:
 
-<img src="https://user-images.githubusercontent.com/99133333/217092790-7e5a17f8-3386-4a7a-975e-ac25e83a59a0.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/99133333/217092790-7e5a17f8-3386-4a7a-975e-ac25e83a59a0.png" width=80% height=80%>
 
 ![extension](https://user-images.githubusercontent.com/99133333/217094231-88263eb1-9c11-4737-ab57-2a14da70e9d6.png)
 
