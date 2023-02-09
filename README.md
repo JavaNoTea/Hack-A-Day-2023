@@ -1,7 +1,7 @@
 # WebWise - A Chrome Extension for Enhancing Accessibility
 # Hack-A-Day-2023 Project (1st Place Project)
 
-We are pleased to introduce WebWise, a Chrome extension aimed at improving the internet browsing experience for elderly and disabled individuals. The project was developed within 8 hours at the UCF Knight Hacks Hack A Day event by a talented team of four individuals.
+We are pleased to introduce WebWise, a Chrome extension aimed at improving the internet browsing experience for elderly and disabled individuals. The project was developed within 8 hours at the UCF Knight Hacks Hack A Day event by a talented team of four students.
 
 
 # Key Features
