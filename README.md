@@ -4,6 +4,9 @@
 We are pleased to introduce WebWise, a Chrome extension aimed at improving the internet browsing experience for elderly and disabled individuals. The project was developed within 8 hours at the UCF Knight Hacks Hack A Day event by a talented team of four students.
 
 
+<img src="https://user-images.githubusercontent.com/99133333/217920088-3bd0cf55-8509-4d8a-8690-c21bb356270b.png">
+
+
 # Key Features
 
 * Greyscale mode to accommodate color blindness
