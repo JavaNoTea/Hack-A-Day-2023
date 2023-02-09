@@ -28,7 +28,7 @@ We are pleased to introduce WebWise, a Chrome extension aimed at improving the i
 
 * Further research and testing with the target demographic should be conducted to ensure that the extension meets their needs and preferences.
 * Engaging a professional designer could elevate the visual appeal of the extension.
-* Incorporating additional accessibility features such as closed captioning, alt text viewing, and [insert more future feature ideas] would continue to enhance the user experience.
+* Incorporating additional accessibility features such as closed captioning, alt text viewing, and contrast boosting would continue to enhance the user experience.
 
 # Lessons Learned
 
